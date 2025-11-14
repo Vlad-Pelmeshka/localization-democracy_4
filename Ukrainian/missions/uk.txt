@@ -1,20 +1,18 @@
 [config]
 name  = uk
-guiname = "United Kingdom"
-description = "The United Kingdom of Great Britain and Northern Ireland actually consists of four countries. England, Scotland, Wales and Northern Ireland. The UK is a 'constitutional monarchy', effectively meaning the monarchy is symbolic. The head of state is the King, but the country is governed by a Prime Minister, defined as anybody who can command a majority of support in the 'House of Commons', which is the elected chamber. A second unelected chamber called the 'House of Lords' exists to scrutinize legislation."
-jobtitle = "Prime Minister"
+guiname = "Велика Британія"
+description = "Сполучене Королівство Великої Британії та Північної Ірландії фактично складається з чотирьох країн: Англії, Шотландії, Уельсу та Північної Ірландії. Велика Британія є «конституційною монархією», що фактично означає, що монархія є символічною. Главою держави є король, але країною керує прем'єр-міністр, яким може бути будь-хто, хто має підтримку більшості в «Палаті громад», яка є виборною палатою. Друга невиборна палата, яка називається «Палата лордів», існує для контролю за законодавством."
+jobtitle = "Прем'єр-міністр"
 
 [stats]
-Population: = "65.1 million (July 2018)"
-Size: = "243,610 sq km"
-Ethnicity: = "87.1% White 3% Black 6.9% Asian"
-Religion: = "Christian(59.5%) Muslim (4.4%) Hindu (1.3%)"
-Exports: = "Cars, Turbo-jets, Crude oil, Gold, Medication"
-Most Popular Food: = "Fish and Chips"
-National Anthem: = "God Save The King"
-Wealthiest Citizen: = "Sir James Dyson (2020)"
-
-
+Population: = "65.1 мільйонів (липень 2018 р.)"
+Size: = "243,610 km²"
+Ethnicity: = "87.1% Білі 3% Темношкірі 6.9% Азіати"
+Religion: = "Християни 59.5%, Мусульмани 4.4%, Індуїсти 1.3%"
+Exports: = "Автомобілі, турбореактивні двигуни, сира нафта, золото, ліки"
+Most Popular Food: = "Риба з картоплею фрі"
+National Anthem: = "Боже, бережи короля"
+Wealthiest Citizen: = "Сер Джеймс Дайсон (2020)"
 
 
 

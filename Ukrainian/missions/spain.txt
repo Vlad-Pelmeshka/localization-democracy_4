@@ -1,21 +1,17 @@
 [config]
 name  = spain
-guiname = "Spain"
-description = "The Kingdom of Spain's first democratic election took place in June 1977 after the death of Francisco Franco in 1975 who had ruled Spain under a dictatorship since 1939. In 1978, a new democratic constitution was promulgated and approved by referendum. Spain was declared a constitutional parliamentary monarchy with King Juan Carlos I as Head of State and with universal suffrage."
-jobtitle = "Prime Minister"
+guiname = "Іспанія"
+description = "Перші демократичні вибори в Королівстві Іспанія відбулися в червні 1977 року після смерті Франсіско Франко в 1975 році, який правив Іспанією в умовах диктатури з 1939 року. У 1978 році була проголошена нова демократична конституція, яка була затверджена референдумом. Іспанія була проголошена конституційною парламентською монархією з королем Хуаном Карлосом I як главою держави і загальним виборчим правом".
+jobtitle = "Прем'єр-міністр"
 
 [stats]
-Population:=	46,754,778 (2020) according to UN data.
-Size:=	505,990 km2	
-Religion:= 	68% Catholics, 2.6% other faiths and 28% identify as Atheists.
-Exports:= 	Machinery, motor vehicles; foodstuffs, pharmaceuticals, medicines, other consumer goods
-World Leader:=	Health, Organ donation. The third highest number of UNESCO world heritage sites. Generating and exporting renewable energy.
-Member of:=	European Union, United Nations, NATO, OECD
-National obsessions:=	Long lunch breaks, football, healthy Mediterranean diet, family.
-
-
-
-
+Population:=	"46,754,778 (2020) за даними ООН."
+Size:=	"505,990 km²"	
+Religion:= 	"Католики 68%, 2.6% інші релігії та 28% Атеїстів."
+Exports:=     "Машини, автомобілі; харчові продукти, фармацевтичні препарати, ліки, інші товари широкого вжитку"
+World Leader:=    "Охорона здоров'я, донорство органів. Третє місце за кількістю об'єктів всесвітньої спадщини ЮНЕСКО. Виробництво та експорт відновлюваної енергії."
+Member of:=    "Європейського Союзу, Організації Об'єднаних Націй, НАТО, ОЕСР"
+National obsessions:=    "Довгі обідні перерви, футбол, здорове середземноморське харчування, сім'я."
 
 
 

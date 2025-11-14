@@ -1,17 +1,16 @@
 [config]
 name  = canada
-guiname = "Canada"
-description = "Canada is a Federal parliamentary democracy with a constitutional monarchy. The Prime Minister is elected. Formally a colony of Great Britain, the new nation of Canada first became a democracy in 1867. In 1919 women won the vote but it wasn't until 1960 when all Canadian citizens, irrespective of ethnicity, could vote and universal suffrage became law."
-
-jobtitle = "Prime Minister"
+guiname = "Канада"
+description = "Канада є федеральною парламентською демократією з конституційною монархією. Прем'єр-міністр обирається. Нова держава Канада, яка раніше була колонією Великої Британії, вперше стала демократичною у 1867 році. У 1919 році жінки отримали право голосу, але лише у 1960 році всі громадяни Канади, незалежно від етнічної приналежності, отримали право голосу, і загальне виборче право стало законом."
+jobtitle = "Прем'єр-міністр"
 
 [stats]
 Population: = "37.742,154 (2020)"
-Size: = "9,984,670 sq km"
-Religion: = "69.3% Christian, 24.9% Unaffiliated, 1.2% Islam, 1.0% Hinduism,1.4% Sikhism"
-Exports: = "Oil, wood, refined fuel, gold, metals and gems"
-World Leader:  = "Longest coastline, quality of life, transparency of government and business"
-National obsessions: =  "Maple Syrup, Ice Hockey, Politeness, Diversity"
+Size: = "9,984,670 km²"
+Religion: = "Християни 69,3%, Нерелігійні 24,9%, Мусульмани 1,2%, Індуїзм 1,0%, Сикхізм 1,4%"
+Exports: = "Нафта, деревина, рафіноване паливо, золото, метали та дорогоцінні камені"
+World Leader: = "Найдовша берегова лінія, якість життя, прозорість уряду та бізнесу"
+National obsessions: = "Кленовий сироп, хокей, ввічливість, різноманітність"
 
 
 
